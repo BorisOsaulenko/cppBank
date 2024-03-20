@@ -1,0 +1,9 @@
+Vasya's wallet: 
+
+ - cards:
+Tinkoff Credit card
+Tinkoff Credit card
+
+Expenses:
+2024-03-20 22:14:57 Food 600
+2024-03-20 22:14:57 Clothes 300
